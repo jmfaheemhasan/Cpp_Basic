@@ -8,3 +8,5 @@
 3_Whether_Number_is_prime_or_not.cpp
 
 4_Swap_two_numbers_using_temp_variable.cpp
+
+5_Swap_two_numbers_using_third_variable.cpp
